@@ -1,0 +1,59 @@
+X11
+---
+
+.. index::
+   single: X11
+
+X11 connections are used to run an X11 application through SSH or to connect to 
+a server via XDMCP.
+
+Basic Information
+~~~~~~~~~~~~~~~~~
+
+Name
+    The name of the connection. The name is a required field when a new 
+    connection is created. 
+Local Display Name
+    The local display name is what the connection will be labeled with on the
+    device. This field is required in order to create a new connection. 
+Description
+    A description such as "Kiosk Connection" or "Presentation Connection." The
+    description field is optional, but it is recommended to use descriptions to
+    help organize connections.  
+Protocol
+    The protocol used in the connection is displayed here.  
+
+General
+~~~~~~~
+
+Session Type
+    The session type for the X11 connection. Users can choose between using an 
+    XDMCP connection or using the X11 SSH application. 
+Server URL
+    The URL (or IP address) of the X11 server.
+Username
+    The default username for the X11 session. Leaving this field blank will 
+    allow those that use this connection to log in with their desired username 
+    when they connect. 
+Password
+    Setting a password in this field, combined with entering a username above, 
+    will enable automatic login as the specified user. 
+Application Name
+    If the session type selected is X11 SSH App, then an application's filepath 
+    can be entered here. Otherwise this field can be left blank. 
+Screen Resolution
+    The screen resolution for the X11 session. If an X11 SSH App session is in 
+    use, then some applications may not support all available resolutions. 
+Autostart
+    Causes the connection to start as soon as the device is powered on. 
+Auto Restart
+    Causes the connection to be restarted if it is closed. This is useful for 
+    administrators that wish to limit the ability of a user to access the 
+    device. 
+Disable Desktop
+    This will disable desktop access, ensuring that users only access this 
+    specific workstation with the specific credentials applied to the 
+    connection. Logging off from the server will power off the thin client, and 
+    powering on the thin client will bypass the operating system's desktop and 
+    immediately log in to the server. This feature is not supported for 
+    Windows-based operating systems. 
