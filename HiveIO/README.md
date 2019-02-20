@@ -5,8 +5,11 @@ support teams, and external documentation, intended for customers. To view any
 public-facing documentation that I wrote, please view the following links.:
 
 [Hive Fabric 6.12 Documentation](https://hiveio.atlassian.net/wiki/spaces/HIO612/overview)
+
 [Hive Fabric 7.0 Documentation](https://hiveio.atlassian.net/wiki/spaces/HF70/overview)
+
 [Hive Fabric 7.1 Documentation](https://hiveio.atlassian.net/wiki/spaces/HF71/overview)
+
 [Hive Fabric 7.2 Documentation](https://hiveio.atlassian.net/wiki/spaces/HF72/overview)
 
 (One may notice how much I also improved my own documenting processes for HiveIO too!)
