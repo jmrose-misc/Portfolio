@@ -86,9 +86,3 @@ benefited the organization and it was a delight to develop this project. As I'm
 currently looking to transition my career towards production and project 
 management, I hope that this retrospective gives a better insight on where my 
 head is at and just what I'm capable of.
-=======
-This is a Scriptrunner Event Listener, deployed within Conlfuence, that sends 
-an email based on pages that transition to a "Stale" state within our runbook 
-documentation workflow. This script sends an email to the primary points of 
-contact for the service the runbook relates to, using data parsed from the Jira 
-Insight JSON.
