@@ -7,11 +7,11 @@
 ## Overview ##
 
 This particular sample within this repo is a key project of mine from 2023. At 
-the time, we were seeking ways to maintain currency in out Operations Center 
-documentation. Communication with my team within Service Operations, we 
+the time, we were seeking ways to maintain currency in our Operations Center 
+documentation. By communicating with my team within Service Operations, we 
 determined that any automation we wrote would need to target documents that 
-fell under specific health states and take action. This particular script 
-focuses on "Stale" docs, but we also had scripts for other health states.
+fell under specific health states and take action from there. This particular 
+script focuses on "Stale" docs, but we also had scripts for other health states.
 
 As a bonus, this would give the team more data to collect regarding document 
 health and usage, as part of a larger reporting effort for the department.
@@ -66,22 +66,22 @@ need updates. By including myself in the copies of emails sent, I was able to
 catch that points of contact were receiving extraneous emails. I caught the 
 issue early and temporarily disabled the script to correct the bug and prevent more 
 spam. I also immediately reached out to the team to apologize for the mistake, 
-while explaining what happened and why the issue happened. They were appreciative 
-of the transparency, and more appreciative about not getting spammed!
+while explaining the issue and its root cause. They were appreciative of the 
+transparency, and more appreciative about not getting spammed!
 
 
 ## Next Steps and Considerations ##
 
 This project paved the way to collect more data on the health and usage of our 
-operational documentation. The data collected here would feed into reports that 
-I was generating within Tableau. Unfortunately, due to layoffs, these next steps 
+operational documentation. The data here would feed into reports that I was 
+generating within Tableau. Unfortunately, due to layoffs, these next steps 
 may be on stand-still.
 
 
 ## Additional Notes ##
 
 The series of scripts that I wrote for this project were my first foray into 
-script-writing in general. It was a unique experience to learn something that 
+script writing in general. It was a unique experience to learn something that 
 benefited the organization and it was a delight to develop this project. As I'm 
 currently looking to transition my career towards production and project 
 management, I hope that this retrospective gives a better insight on where my 
