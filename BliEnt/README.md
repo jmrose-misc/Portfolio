@@ -1,8 +1,9 @@
 # 2023 Project Retrospective #
 
-| Author        | Jessica Rose       |
-| ------------- |:------------------:|
-| Team          | Service Operations |
+| Author        | Jessica Rose                                           |
+| ------------- |:------------------------------------------------------:|
+| Team          | Service Operations                                     |
+| Tools Used    | Scriptrunner for Confluence, Apache Groovy, Javascript |
 
 ## Overview ##
 
