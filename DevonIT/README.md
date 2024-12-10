@@ -3,7 +3,6 @@
 | Author        | Jessica Rose                  |
 | ------------- |:-----------------------------:|
 | Tools Used    | reStructured Text, Sphinx     |
-| ------------- |:-----------------------------:|
 | Other Notes   | Reviews done via docs-as-code |
 
 At DevonIT, I wrote all user-facing documentation using Sphinx for document 
