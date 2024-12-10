@@ -1,5 +1,9 @@
 # HiveIO #
 
+| Author        | Jessica Rose                               |
+| ------------- |:------------------------------------------:|
+| Tools Used    | Confluence, CSS to make PDF imports pretty |
+
 HiveIO primarily relied on Confluence for internal documentation, intended for 
 support teams, and external documentation, intended for customers. To view any 
 public-facing documentation that I wrote, please view the following links.:
